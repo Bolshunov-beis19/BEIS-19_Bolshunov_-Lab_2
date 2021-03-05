@@ -1,0 +1,4 @@
+E:\Kingston\Учёба\РиСПСиИТ\LB2\Control\Control\bin\Debug\Control.exe
+E:\Kingston\Учёба\РиСПСиИТ\LB2\Control\Control\bin\Debug\Control.pdb
+E:\Kingston\Учёба\РиСПСиИТ\LB2\Control\Control\obj\x86\Debug\Control.exe
+E:\Kingston\Учёба\РиСПСиИТ\LB2\Control\Control\obj\x86\Debug\Control.pdb
