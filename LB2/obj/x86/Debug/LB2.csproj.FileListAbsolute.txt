@@ -1,0 +1,7 @@
+E:\Kingston\Учёба\РиСПСиИТ\LB2\LB2\LB2\bin\Debug\LB2.exe
+E:\Kingston\Учёба\РиСПСиИТ\LB2\LB2\LB2\bin\Debug\LB2.pdb
+E:\Kingston\Учёба\РиСПСиИТ\LB2\LB2\LB2\obj\x86\Debug\LB2.Form1.resources
+E:\Kingston\Учёба\РиСПСиИТ\LB2\LB2\LB2\obj\x86\Debug\LB2.Properties.Resources.resources
+E:\Kingston\Учёба\РиСПСиИТ\LB2\LB2\LB2\obj\x86\Debug\LB2.csproj.GenerateResource.Cache
+E:\Kingston\Учёба\РиСПСиИТ\LB2\LB2\LB2\obj\x86\Debug\LB2.exe
+E:\Kingston\Учёба\РиСПСиИТ\LB2\LB2\LB2\obj\x86\Debug\LB2.pdb
