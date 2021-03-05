@@ -27,8 +27,8 @@ namespace LB2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int x = Convert.ToInt32(textBox1.Text);
-            int y = Convert.ToInt32(textBox2.Text);
+            double x = Convert.ToDouble(textBox1.Text);
+            double y = Convert.ToDouble(textBox2.Text);
             x = x + y;
             textBox3.Text = Convert.ToString(x);
             textBox4.Text = ("Сложение");
@@ -36,8 +36,8 @@ namespace LB2
 
         private void button2_Click(object sender, EventArgs e)
         {
-            int x = Convert.ToInt32(textBox1.Text);
-            int y = Convert.ToInt32(textBox2.Text);
+            double x = Convert.ToDouble(textBox1.Text);
+            double y = Convert.ToDouble(textBox2.Text);
             x = x - y;
             textBox3.Text = Convert.ToString(x);
             textBox4.Text = ("Вычитание");
@@ -45,8 +45,8 @@ namespace LB2
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int x = Convert.ToInt32(textBox1.Text);
-            int y = Convert.ToInt32(textBox2.Text);
+            double x = Convert.ToDouble(textBox1.Text);
+            double y = Convert.ToDouble(textBox2.Text);
             x = x * y;
             textBox3.Text = Convert.ToString(x);
             textBox4.Text = ("Умножение");
@@ -54,8 +54,8 @@ namespace LB2
 
         private void button4_Click(object sender, EventArgs e)
         {
-            int x = Convert.ToInt32(textBox1.Text);
-            int y = Convert.ToInt32(textBox2.Text);
+            double x = Convert.ToDouble(textBox1.Text);
+            double y = Convert.ToDouble(textBox2.Text);
             x = x / y;
             textBox3.Text = Convert.ToString(x);
             textBox4.Text = ("Деление");
